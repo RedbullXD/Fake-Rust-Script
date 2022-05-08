@@ -1,5 +1,5 @@
 # Fake-Rust-Script
-"Dont Cheat/Script" (This Does Not Work)
+Dont Cheat/Script (This Does Not Work)
 # 🎨 Colors
 In line 4 you can change the color
 0 = Black       8 = Gray
