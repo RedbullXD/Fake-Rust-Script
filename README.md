@@ -10,4 +10,3 @@ In line 4 you can change the color
 5 = Purple      D = Light Purple
 6 = Yellow      E = Light Yellow
 7 = White       F = Bright White
-8 = Gray
